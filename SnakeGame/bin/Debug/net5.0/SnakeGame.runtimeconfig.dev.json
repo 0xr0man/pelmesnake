@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/alpaca/.dotnet/store/|arch|/|tfm|",
+      "/home/alpaca/.nuget/packages"
+    ]
+  }
+}

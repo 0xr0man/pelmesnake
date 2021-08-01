@@ -1,0 +1,16 @@
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/SnakeGame
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/SnakeGame.deps.json
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/SnakeGame.runtimeconfig.json
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/SnakeGame.runtimeconfig.dev.json
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/SnakeGame.dll
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/ref/SnakeGame.dll
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/bin/Debug/net5.0/SnakeGame.pdb
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.csprojAssemblyReference.cache
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.AssemblyInfoInputs.cache
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.AssemblyInfo.cs
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.csproj.CoreCompileInputs.cache
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.dll
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/ref/SnakeGame.dll
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.pdb
+/home/alpaca/RiderProjects/SnakeGame/SnakeGame/obj/Debug/net5.0/SnakeGame.genruntimeconfig.cache
